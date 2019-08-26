@@ -8,8 +8,8 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    세상에서 가장 게으르기 위해 가장 부지런한 타입.
-    글쓰는 것과 디자인, 개발을 좋아한다. 좋은게 좋은거고, 예쁜게 좋은거고, 노는게 좋은거라고 생각한다. 좋아하는게 많은 편.
+    생활하면서 불편하거나 필요항게 있으면 그때마다 만들어 사용하는 타입
+    모든걸 c# 을 이용하여 만드는 개발자이다. 요즘은 파이썬도 배우고 있다.
 
   # This photo will be used in the about section
   picture:
@@ -23,8 +23,8 @@ isme2n:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        zooqzqz
-    # twitter:         <username>
+    # facebook:        <username>
+    twitter:         Hot_key_
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -47,8 +47,8 @@ isme2n:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          isme2n
-    # stackoverflow:   <number/username>
+    github:          hot-key
+    stackoverflow:   8409624/hotkey
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
@@ -58,8 +58,8 @@ isme2n:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:zooqzqz@gmail.com
-    rss:             https://isme2n.github.io/feed.xml
+    email:           mailto:NanoHotkey@protonmail.ch
+    rss:             https://hot-key.github.io/feed.xml
 
 # Another author
 mdo:
