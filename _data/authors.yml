@@ -8,8 +8,9 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    살면서 불편하거나 필요한것이 있으면 그때마다 만들어 사용하는 타입.|
-    모든걸 c# 과 오토핫키를 이용하여 만드는 개발자이다.|
+    살면서 불편하거나 필요한것이 있으면 그때마다 만들어 사용하는 타입.
+    모든걸 c# 과 오토핫키를 이용하여 만드는 개발자이다.
+    웹 백엔드와 소켓 서버 개발을 주로 하고 있다.
     요즘은 파이썬도 배우고 있다.
 
   # This photo will be used in the about section
