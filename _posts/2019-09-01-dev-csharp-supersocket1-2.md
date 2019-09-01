@@ -265,7 +265,7 @@ tcpSession_Error 는 소켓에서 오류가 발생하였을 시 호출된다.
 이러면 클라이언트도 완성이다!
 
 이런식으로 서버와 통신을 하는 것을 볼 수 있다.
-![결과이미지](img/csharp/SuperSocket/EchoTest.PNG)
+![결과이미지](/assets/img/csharp/SuperSocket/EchoTest.PNG)
 
 다음 강과는 채팅서버를 만들어 볼 것이다.
 
