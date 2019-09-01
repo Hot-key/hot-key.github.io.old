@@ -6,7 +6,7 @@ categories: develop
 tags: csharp
 ---
 
-# SuperSocket의 구조
+## SuperSocket의 구조
 
 처음 접하면 어렵다고 생각할 수도 있지만 SuperSocket의 구조는 간단하다.
 

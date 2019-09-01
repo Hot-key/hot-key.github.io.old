@@ -6,7 +6,7 @@ categories: develop
 tags: csharp
 ---
 
-# SuperSocket 이란?
+## SuperSocket 이란?
 
 SuperSocket은 kerryjiang가 c# 을 이용하여 만든 고성능 소켓서버 라이브러리로
 깃허브에서 오픈소스로 개발 중이다.
@@ -21,7 +21,9 @@ SuperSocket은 kerryjiang가 c# 을 이용하여 만든 고성능 소켓서버 �
 
 [.net core 버전](https://github.com/jacking75/SuperSocketLite)
 
-다음 글에서는 내가 SuperSocket을 사용한 방법에 대하여 적어 보겠다.
+본 글의 목표는 기존의 SuperSocket를 더욱 편하게 사용 가능한 라이브러리를 만들어 보는것이다.
+
+그러면 다음 글에서는 SuperSocket의 사용방법부터 알아보도록 하자
 
 다음 글에 나오는 내용이 SuperSocket을 이런식으로 사용해라 하는 정답은 아니다.  
 그저 나는 이런 식으로 사용하였다는 한가지 예시 중 하나라고 생각하고 보면 될 것 같다.
