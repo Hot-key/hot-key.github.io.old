@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[AutoHotkey]원클릭 아이피 고정/유동 변경기"
-subtitle:   "유동,고정 아이피 변경기"
+subtitle:  "유동,고정 아이피 변경기"
 categories: project
-tags: server
+tags: other
 ---
 
 # 유동,고정 아이피 변경기
