@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[윈폼 컨트롤 설명] Button"
+title:  "[windows Form] Button"
 subtitle:   "Button 컨트롤이란"
 categories: develop
-tags: csharp
+tags: winforms
 ---
 
 # Button 컨트롤이란
