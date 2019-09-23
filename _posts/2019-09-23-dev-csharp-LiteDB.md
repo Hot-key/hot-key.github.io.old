@@ -49,7 +49,7 @@ public class User
 
 또한 설명을 위한 폼을 만들어 보았다.
 
-![버튼](/assets/img/dev/csharp/LiteDB/Form1.PNG)  
+![폼 이미지](/assets/img/dev/csharp/LiteDB/Form1.png)  
 
 폼 설명을 하자면 
 
