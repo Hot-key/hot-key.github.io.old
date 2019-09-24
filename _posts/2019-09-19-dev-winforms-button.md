@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[windows Form] Button 컨트롤이란"
+title:  "[WindowsForm] Button 컨트롤이란"
 subtitle:   "Button 컨트롤이란"
 categories: develop
 tags: winforms
