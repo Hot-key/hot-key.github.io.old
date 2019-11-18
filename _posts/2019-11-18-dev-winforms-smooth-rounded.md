@@ -10,7 +10,7 @@ tags: winforms
 
 하지만 CreateRoundRectRgn 를 이용하면 완벽하게 둥근 테두리가 아닌 눈으로 볼때 약간 어색할 수 있는 테두리가 나온다.
 
-![기존방식](../assets/img/dev/winforms/smooth-rounded/CreateRoundRectRgn.png)
+![기존방식](/assets/img/dev/winforms/smooth-rounded/CreateRoundRectRgn.png)
 
 이것을 더욱 선명하고 부드럽게 만들어 보자 일단 Win32api 를 이용하지 않고 둥근 사각형을 그려보자.
 
@@ -83,7 +83,7 @@ private void Form1_Paint(object sender, PaintEventArgs e)
 ```
 여기까지 끝나면 위의 방식보다 둥근 사각형을 얻을 수 있다.
 
-![둥근 사각형](../assets/img/dev/winforms/smooth-rounded/smoothRounded1.png)
+![둥근 사각형](/assets/img/dev/winforms/smooth-rounded/smoothRounded1.png)
 
 그러면 이제 꼭짓점 부분을 투명하게 만들어 보자.
 
@@ -171,7 +171,7 @@ private void Form1_Load(object sender, EventArgs e)
 해당코드는 폼 사이즈와 동일한 Bitmap을 만들고 그 위에 둥근 사각형을 그리는 것 이다.
 
 
-![둥근 사각형 완성](../assets/img/dev/winforms/smooth-rounded/smoothRounded2.png)
+![둥근 사각형 완성](/assets/img/dev/winforms/smooth-rounded/smoothRounded2.png)
 
 이로써 둥근 사각형의 완성이다.
 
