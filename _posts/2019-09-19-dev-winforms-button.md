@@ -29,7 +29,7 @@ tags: winforms
 
 ### 2. 속성창을 이용한다.  
    
-![버튼](/assets/img/dev/winforms/button/button2.PNG)  
+![버튼](/assets/img/dev/winforms/button/button2.png)   
 속성창에서 번개모양 버튼을 누르면
 
 등록가능한 이벤트 목록이 나옵니다.
