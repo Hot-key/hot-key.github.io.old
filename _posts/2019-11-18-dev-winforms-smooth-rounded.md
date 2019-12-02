@@ -419,4 +419,4 @@ class Win32
 }
 ```
 
-추가사항 [[WindowsForm] 더욱 둥근 테두리를 가진 폼 만들기-추가사항](https://hot-key.github.io/develop/2019/11/18/dev-winforms-smooth-rounded2/)
+추가사항 [[WindowsForm] 더욱 둥근 테두리를 가진 폼 만들기-추가사항](https://hot-key.github.io/develop/2019/12/02/dev-winforms-smooth-rounded2/)
