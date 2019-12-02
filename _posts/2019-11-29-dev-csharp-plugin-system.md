@@ -48,5 +48,5 @@ public static T LoadItem<T>(string fileName, string name, params object[] initDa
 
 여기까지 만들었으면 플러그인을 로드하는 부분은 완성이다.
 
-위의 코드를 이용하여 만든 [간단한 플러그인 시스텡 예제](https://github.com/Hot-key/PluginSystem)이다.  
+위의 코드를 이용하여 만든 [간단한 플러그인 예제](https://github.com/Hot-key/PluginSystem)이다.  
 관심이 있는 사람은 한번 코드를 확인해 보는 것도 좋을 것 같다.
