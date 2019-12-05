@@ -108,10 +108,8 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
 | panelInputData | ~~Top~~ Bottom | panelMain내부 | 650       |
   
 
-여기까지 작업하면 어느정도 모양이 나올 것이다.
-
-하지만 `textBoxInput`의 위치를 한번에 알 수 없고 Panel 간의 경계 부분이 부자연스럽다.
-
+여기까지 작업하면 어느정도 모양이 나올 것이다.  
+하지만 `textBoxInput`의 위치를 한번에 알 수 없고 Panel 간의 경계 부분이 부자연스럽다.  
 이를 해결하기 위해 선을 몇가닥 그려보자.
 
 `OnPaint` 메소드를 이용할 수도 있지만 지금은 간단하게 Label을 이용하여 보겠다.
@@ -124,7 +122,7 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
 | BackColor | 31, 150, 242 |
 | AutoSize  | False        |
   
-  
+
 이제 위 Label을 3개 복사하여 `textBoxInput`하단에 하나, `panelTitle`하단에 하나, `panelInputData`상단에 하나 설치한다
 
 ![1차디자인](/assets/img/dev/winforms/todo-list/1/1차디자인.png)
