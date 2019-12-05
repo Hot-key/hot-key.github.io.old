@@ -116,8 +116,10 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
 
 이제 위 Label을 3개 복사하여 `textBoxInput`하단에 하나, `panelTitle`하단에 하나, `panelInputData`상단에 하나 설치한다
 
-![1차디자인](../assets/img/dev/winforms/todo-list/1/1차디자인.png)
+![1차디자인](/assets/img/dev/winforms/todo-list/1/1차디자인.png)
 
 여기까지 기본적인 디자인을 만들어 보았다.
+
+위 부분까지 만든 [소스코드](https://github.com/Hot-key/Winform-TodoList/tree/16641a44dcba8538a4d9eb7b4cdbb7d677058b0d) 이다.
 
 다음 강좌에서는 User control 을 이용하여 Todo List 에 표시될 아이템을 만들고 추가하는 것 까지 만들어 보자.
