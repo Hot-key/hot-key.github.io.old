@@ -34,7 +34,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 
 해당 옵션을 이용하여 3개의 `Panel`을 배치하였다.
 
-**Form.Panel**
+**Form.Panel**  
 | 이름             | Dock 옵션 | 위치          | 높이  |
 |----------------|---------|-------------|-----|
 | panelTitle     | Top     | 상단          | 90  |
@@ -55,7 +55,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 색을 넣고 `panelTitle`에 `Label`을 이용하여 타이틀을 넣어준다.  
 필자는 간단하게 Todo List라고 넣었다.  
 
-**Label - labelTitle**
+**Label - labelTitle**  
 | 속성        | 값                 |
 |-----------|-------------------|
 | (Name)    | labelTitle        |
@@ -69,7 +69,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 
 다음으로는 `panelInputData` 부분에 입력을 위한 `TextBox`와 `Button`을 추가한다.
 
-**TextBox - textBoxInput**
+**TextBox - textBoxInput**  
 | 속성          | 값                                   |
 |-------------|-------------------------------------|
 | (Name)      | textBoxInput                        |
@@ -78,7 +78,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 | Font.Name   | Segoe UI                            |
 | Font.Size   | 12                                  |
 
-**Button - buttonInput**
+**Button - buttonInput**  
 | 속성                        | 값                 |
 |---------------------------|-------------------|
 | (Name)                    | buttonInput       |
@@ -92,7 +92,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 컨트롤을 배치 하고보니 `panelInputData` 가 하단에 있는 것이 더 좋아보여 위치를 변경하였다.
 Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경이 가능하다.   
 
-**Form.Panel**
+**Form.Panel**  
 | 이름             | Dock 옵션        | 위치          | 높이        |
 |----------------|----------------|-------------|-----------|
 | panelTitle     | Top            | 상단          | ~~80~~ 90 |
@@ -107,7 +107,7 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
 
 `OnPaint` 메소드를 이용할 수도 있지만 지금은 간단하게 Label을 이용하여 보겠다.
 
-**Label**
+**Label**  
 | 속성        | 값            |
 |-----------|--------------|
 | Text      |              |
