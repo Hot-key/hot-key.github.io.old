@@ -35,12 +35,13 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 해당 옵션을 이용하여 3개의 `Panel`을 배치하였다.
 
 **Form.Panel**  
+  
 | 이름             | Dock 옵션 | 위치          | 높이  |
 |----------------|---------|-------------|-----|
 | panelTitle     | Top     | 상단          | 90  |
 | panelMain      | Fill    |             | 85  |
 | panelInputData | Top     | panelMain내부 | 650 |
-
+  
 
 > **Dock 컨트롤러의 우선순위 지정**  
 맨 앞으로 가져오기, 맨 뒤로 보내기 2가지 버튼을 통하여 조절할 수 있다.  
@@ -56,12 +57,14 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 필자는 간단하게 Todo List라고 넣었다.  
 
 **Label - labelTitle**  
+   
 | 속성        | 값                 |
 |-----------|-------------------|
 | (Name)    | labelTitle        |
 | Text      | Todo List         |
 | Font.Name | Segoe UI Semibold |
 | Font.Size | 26(26.25)         |
+  
 
 > **컨트롤러 중양 정렬하기**  
 부모컨트롤러와 정렬할 컨트롤러를 클릭한뒤 상단의 버튼을 이용하여 정렬이 가능하다.
@@ -70,6 +73,7 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 다음으로는 `panelInputData` 부분에 입력을 위한 `TextBox`와 `Button`을 추가한다.
 
 **TextBox - textBoxInput**  
+  
 | 속성          | 값                                   |
 |-------------|-------------------------------------|
 | (Name)      | textBoxInput                        |
@@ -77,8 +81,10 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 | BorderStyle | None                                |
 | Font.Name   | Segoe UI                            |
 | Font.Size   | 12                                  |
+  
 
 **Button - buttonInput**  
+  
 | 속성                        | 값                 |
 |---------------------------|-------------------|
 | (Name)                    | buttonInput       |
@@ -88,16 +94,19 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 | FlatAppearance.BorderSize | 0                 |
 | Font.Name                 | Segoe UI Semibold |
 | Font.Size                 | 10                |
+  
 
 컨트롤을 배치 하고보니 `panelInputData` 가 하단에 있는 것이 더 좋아보여 위치를 변경하였다.
 Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경이 가능하다.   
 
 **Form.Panel**  
+  
 | 이름             | Dock 옵션        | 위치          | 높이        |
 |----------------|----------------|-------------|-----------|
 | panelTitle     | Top            | 상단          | ~~80~~ 90 |
 | panelMain      | Fill           |             | 85        |
 | panelInputData | ~~Top~~ Bottom | panelMain내부 | 650       |
+  
 
 여기까지 작업하면 어느정도 모양이 나올 것이다.
 
@@ -108,12 +117,14 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
 `OnPaint` 메소드를 이용할 수도 있지만 지금은 간단하게 Label을 이용하여 보겠다.
 
 **Label**  
+  
 | 속성        | 값            |
 |-----------|--------------|
 | Text      |              |
 | BackColor | 31, 150, 242 |
 | AutoSize  | False        |
-
+  
+  
 이제 위 Label을 3개 복사하여 `textBoxInput`하단에 하나, `panelTitle`하단에 하나, `panelInputData`상단에 하나 설치한다
 
 ![1차디자인](/assets/img/dev/winforms/todo-list/1/1차디자인.png)
