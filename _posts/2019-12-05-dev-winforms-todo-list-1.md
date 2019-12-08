@@ -62,8 +62,8 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
 |-----------|-------------------|
 | (Name)    | labelTitle        |
 | Text      | Todo List         |
-| Font.Name | Segoe UI Semibold |
-| Font.Size | 26(26.25)         |
+| Font.Name | Segoe UI Semilight|
+| Font.Size | 24               |
   
 
 > **컨트롤러 중양 정렬하기**  
@@ -103,14 +103,14 @@ Dock와 Panel을 이용하여 만들면 이런식으로 쉽게 위치의 변경�
   
 | 이름             | Dock 옵션        | 위치          | 높이        |
 |----------------|----------------|-------------|-----------|
-| panelTitle     | Top            | 상단          | ~~80~~ 90 |
-| panelMain      | Fill           |             | 85        |
-| panelInputData | ~~Top~~ Bottom | panelMain내부 | 650       |
+| panelTitle     | Top            | 상단          | ~~80~~ 65 |
+| panelMain      | Fill           |             | 620        |
+| panelInputData | ~~Top~~ Bottom | panelMain내부 | 55       |
   
 
 여기까지 작업하면 어느정도 모양이 나올 것이다.  
 하지만 `textBoxInput`의 위치를 한번에 알 수 없고 Panel 간의 경계 부분이 부자연스럽다.  
-이를 해결하기 위해 선을 몇가닥 그려보자.
+이를 해결하기 위해 선을 몇 가닥 그려보자.
 
 `OnPaint` 메소드를 이용할 수도 있지만 지금은 간단하게 Label을 이용하여 보겠다.
 
