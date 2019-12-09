@@ -44,8 +44,9 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
   
 
 > **Dock 컨트롤러의 우선순위 지정**  
-맨 앞으로 가져오기, 맨 뒤로 보내기 2가지 버튼을 통하여 조절할 수 있다.  
-![위치조정](/assets/img/dev/winforms/todo-list/1/위치조정.png)
+> 
+>맨 앞으로 가져오기, 맨 뒤로 보내기 2가지 버튼을 통하여 조절할 수 있다.  
+>![위치조정](/assets/img/dev/winforms/todo-list/1/위치조정.png)
 
 위치를 잡았으면 색을 골라보자.  
 필자는 [해당 사이트](https://paletton.com/#uid=13x0u0khZWH4b+8bMX+n-WetUWn) 를 이용하여 폼 디자인에 사용할 색을 결정하였다.
@@ -67,8 +68,9 @@ Dock 옵션은 간단하게 말하자면 해당 컨트롤의 위치를 가장자
   
 
 > **컨트롤러 중양 정렬하기**  
-부모컨트롤러와 정렬할 컨트롤러를 클릭한뒤 상단의 버튼을 이용하여 정렬이 가능하다.
-![중양정렬](/assets/img/dev/winforms/todo-list/1/중양정렬.png)
+> 
+>부모컨트롤러와 정렬할 컨트롤러를 클릭한뒤 상단의 버튼을 이용하여 정렬이 가능하다.
+>![중양정렬](/assets/img/dev/winforms/todo-list/1/중양정렬.png)
 
 다음으로는 `panelInputData` 부분에 입력을 위한 `TextBox`와 `Button`을 추가한다.
 
