@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[WindowsForm 기초] 1.Todo List 만들기"
-subtitle:  "Todo List 레이아웃 구성하기"
+title:  "[WindowsForm 기초] 2.Todo List 만들기"
+subtitle:  "Todo List 에 넣을 항목 만들기"
 categories: develop
 tags: winforms
 ---
