@@ -4,5 +4,5 @@ title: Other
 slug: other
 category: project
 menu: false
-order: 1
+order: 2
 ---

@@ -77,12 +77,12 @@ internal class TransparencyConverter
 
 여기까지 완성한 결과물이다.
 
-![기존방식](/assets/img/dev/winforms/aeroglass/form1.png)
+![form1](/assets/img/dev/winforms/aeroglass/form1.png)
 
 잘 작동하는 것 처럼 보이지만 무언가 이상한걸 알 수 있다.
 
 
-![기존방식](/assets/img/dev/winforms/aeroglass/form2.png)
+![form2](/assets/img/dev/winforms/aeroglass/form2.png)
 
 이 이미지를 보면 버튼의 글자도 투명이 적용되었다.  
 이러면 폼을 사용하기 힘들다.
