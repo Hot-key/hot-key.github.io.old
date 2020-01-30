@@ -13,17 +13,10 @@ tags: euler
 
 1번 문제는 간단하게 1부터 999까지 값을 올리면서 3과 5의 배수를 찾으면 된다.
 
-
-<details>
-<summary>정답 및 소스코드</summary>
-<div markdown="1">
-
 필자는 약간 다른 방식을 이용하였다.  
 
-반복문을 이용하여 1000 까지 돌리는 것이 아닌  
-1 ~ 999 까지 들어있는 배열을 만들고  
-`List.filter`를 이용하여 3과 5의 배수를 찾고  
-`List.sum` 을 이용하여 합을 구하였다.
+반복문을 이용하여 1000 까지 돌리는 것이 아닌 1 ~ 999 까지 들어있는 배열을 만들고  
+`List.filter`를 이용하여 3과 5의 배수를 찾고  `List.sum` 을 이용하여 합을 구하였다.
 
 ```fsharp
 let solve (startNum:int, endNum:int) : int = 
@@ -31,10 +24,8 @@ let solve (startNum:int, endNum:int) : int =
     |> List.filter(fun(x)-> x % 3 = 0 || x % 5 = 0) 
     |> List.sum
 ```
-```
+```fsharp
 solve(1, 1000)
 ```
 233168
 
-</div>
-</details>
