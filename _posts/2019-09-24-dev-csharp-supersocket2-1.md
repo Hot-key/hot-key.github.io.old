@@ -7,6 +7,9 @@ tags: csharp
 ---
 
 ## 서버 구조 구상하기
+
+[SuperSocket으로 서버 만들기 - 목차](/contents/2019/09/24/contents-supersocket/)
+
 먼저 채팅서버를 위한 구조를 구상해보자.
 
 메시지를 구조를 구상하자.
@@ -143,3 +146,5 @@ public enum ChatProtocol : ushort
 Enum 등을 이용하여 만들면 관리하기가 더욱 편하다.  
 
 그러면 서버 구조는 이정도로 끝내고 다음강에는 클라이언트 구조를 잡아 보겠다.
+
+[SuperSocket으로 서버 만들기 - 목차](/contents/2019/09/24/contents-supersocket/)

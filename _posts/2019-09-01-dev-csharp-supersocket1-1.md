@@ -34,3 +34,5 @@ SuperSocket은 크게보면 위의 4가지로 이루어저 있다.
 하나의 ```AppSession``` 은 하나의 유저이다. 
 
 그러면 SuperSocket의 구조는 여기서 마치고 나머지 부분은 다음 강에서 코드와 함께 설명하겠다.
+
+[SuperSocket으로 서버 만들기 - 목차](/contents/2019/09/24/contents-supersocket/)

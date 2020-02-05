@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[프로젝트 오일러 2번] - 피보나치 수열에서 4백만 이하이면서 짝수인 항의 합"
+title:  "[Project Euler] - 프로젝트 오일러 2번 정답 및 풀이"
 subtitle:   "피보나치 수열에서 4백만 이하이면서 짝수인 항의 합"
 categories: ps
 tags: euler

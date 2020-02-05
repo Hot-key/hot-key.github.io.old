@@ -8,6 +8,8 @@ tags: csharp
 
 ## 서버의 기본 틀 만들기
 
+[SuperSocket으로 서버 만들기 - 목차](/contents/2019/09/24/contents-supersocket/)
+
 일단 프로젝트부터 만들어보자.  
 필자는 .net framework 4.5.2 를 이용하여 프로젝트를 만들었다.
 
@@ -271,3 +273,4 @@ tcpSession_Error 는 소켓에서 오류가 발생하였을 시 호출된다.
 
 본 강좌의 [소스코드](https://github.com/Hot-key/SuperSocketServer)는 깃허브에서 확인 가능하다.
 
+[SuperSocket으로 서버 만들기 - 목차](/contents/2019/09/24/contents-supersocket/)
