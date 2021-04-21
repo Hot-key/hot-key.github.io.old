@@ -95,7 +95,7 @@ oh my zsh 설명 페이지 글의 일부이다.
 
 일단 필자는 하단 Dock 프로그램인 Plank 를 사용한다.
 
-```shell script
+```
 sudo add-apt-repository ppa:ricotz/docky
 sudo apt-get update && sudo apt-get install plank
 plank --preferences
@@ -103,7 +103,7 @@ plank --preferences
 
 그리고 위 화면에는 나와있지 않지만 F1키로 터미널을 열 수 있는 Tilda를 설치 하였다.
 
-```shell script
+```
 sudo apt-get install tilda
 tilda
 ```
