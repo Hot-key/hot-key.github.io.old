@@ -177,4 +177,4 @@ theme:
 
 ---
 
-[setting-up-spotifyd-on-macos](https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/)
+[https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/](https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/)
