@@ -33,7 +33,7 @@ Spotifyd 는 UNIX 데몬으로 실행되는 오픈 소스 Spotify 클라이언�
 처음은 Spotifyd를 설치하는 것 부터 시작해보자.  
 [Spotifyd 깃허브](https://github.com/Spotifyd/spotifyd)
 Spotifyd 위키의 설치 지침에서는 클론 후 빌드하는 것이지만 필자는 깃허브에서 받아서 사용했다.  
-https://github.com/Spotifyd/spotifyd/releases
+[https://github.com/Spotifyd/spotifyd/releases](https://github.com/Spotifyd/spotifyd/releases)
 
 위 페이지에서 일치하는 것을 받아서 사용하면 된다.  
 필자는 `spotifyd-linux-full.tar.gz` 을 다운 받았다.
@@ -177,4 +177,4 @@ theme:
 
 ---
 
-https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/
+[setting-up-spotifyd-on-macos](https://jonathanchang.org/blog/setting-up-spotifyd-on-macos/)
